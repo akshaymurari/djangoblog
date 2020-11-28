@@ -1,0 +1,13 @@
+.hoverpost:hover, .hoverlog:hover {
+  background-color: rgba(50, 80, 200, 0.7);
+  border-radius: 50px;
+}
+
+.bg-trans {
+  background-color: #285a5a;
+}
+
+.bgposts {
+  background-color: #ddd;
+}
+/*# sourceMappingURL=sty1.css.map */

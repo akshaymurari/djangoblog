@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAC,GAAG;EACP,SAAS,EAAE,mBAAkB;CAChC",
+    "sources": [
+        "sty2.scss"
+    ],
+    "names": [],
+    "file": "sty2.css"
+}

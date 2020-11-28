@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,AAAA,MAAM,EAAC,SAAS,AAAA,MAAM,CAAA;EAC5B,gBAAgB,EAAE,sBAAmB;EACrC,aAAa,EAAE,IAAI;CACtB;;AACD,AAAA,SAAS,CAAA;EACL,gBAAgB,EAAC,OAAgB;CACpC;;AACD,AAAA,QAAQ,CAAA;EACJ,gBAAgB,EAAC,IAAI;CACxB",
+    "sources": [
+        "sty1.scss"
+    ],
+    "names": [],
+    "file": "sty1.css"
+}
